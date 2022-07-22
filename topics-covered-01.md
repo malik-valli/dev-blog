@@ -1,3 +1,5 @@
+![Topics covered_ 19 June 2022](https://user-images.githubusercontent.com/81878781/180450881-738183b2-2e59-4cd3-99b4-635689bfdec6.png)
+
 Here are some of the topics that I have touched on during this time:
 
 - Activity
