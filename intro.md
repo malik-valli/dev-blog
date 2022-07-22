@@ -2,7 +2,7 @@ June 1, 2022, [telegram version](https://t.me/sinblog/6)
 
 ![First post](https://user-images.githubusercontent.com/81878781/179823399-2f44c813-9904-4616-b6c1-4891fcb7ae5d.png)
 
-Hi! My name is Malik, I am 18 years old, and now I am a novice Android developer.
+Hi! My name is **Malik**, I am 18 years old, and now I am a **novice Android developer**.
 
 With this post I open my developer blog called Singular. This blog will be mainly devoted to mobile, specifically Android development (in the future, maybe cross-platform development). This is done in order not to be sprayed too much, and in order for the blog to be more predictable for the reader. But, of course, if you look not from a technical point of view, the very word “blog” suggests that I will tell my story. So everything will, of course, be seasoned with “soft content". And, in fact, this blog will be of great benefit to beginners in development or other interested people.
 
