@@ -4,3 +4,5 @@ My developer blog called Singular Blog, which has been in the [Telegram](https:/
 June 1, Intro and my story. [Post](https://github.com/malik-valli/dev-blog/blob/main/intro.md)
 
 June 10, Is it useful to solve algorithmic problems? [Post](https://github.com/malik-valli/dev-blog/blob/main/algorithms.md)
+
+June 19, First month of Android development. [Post](https://github.com/malik-valli/dev-blog/blob/main/first-month.md)
