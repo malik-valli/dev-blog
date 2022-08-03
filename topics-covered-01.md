@@ -1,36 +1,38 @@
+# *Topics covered* | 19 June, 2022, [Telegram version](https://t.me/sinblog/16)
+
 ![Topics covered_ 19 June 2022](https://user-images.githubusercontent.com/81878781/180450881-738183b2-2e59-4cd3-99b4-635689bfdec6.png)
 
 Here are some of the topics that I have touched on during this time:
 
-- Activity
-- Life cycle
-    - Intentions. Explicit and implicit intentions
-- Saving and restoring the transient state of the user interface
+- Activities
+    - Lifecycle
+    - Intents. Explicit and implicit intents
+    - Saving and restoring transient UI state
 
-- User interface
-    - - Constraint Layout
-- TextView; ImageView; EditText; ToastMessage
-- Button; Radio group and switch button
-- - View of the utilizer
-- Menu
-- - Material
+- UI
+    - ConstraintLayout
+    - TextView; ImageView; EditText; ToastMessage
+    - Button; RadioGroup & RadioButton
+    - RecyclerView
+    - Menus
+    - Material
         - Switch
-        - Badges
-        - Map view
+        - Icons
+        - CardView
         - AlertDialog
 
 - Resources
-    - Values: strings; colors; sizes; themes; styles
-- Binding and layouts
-    - - Ability to draw; mipmap and launcher icons: foreground and background, OEM masks
+    - Values: strings; colors; dimens; themes; styles
+    - Binding & layouts
+    - Drawables; mipmap & launcher icons: foreground & background, OEM masks
 
-- Fragments and navigation controller
+- Fragments & navigation controller
 
 - Jetpack
-    - Architecture components: User Interface Controller and ViewModel
-    - ViewModel Lifecycle
+    - Architecture components: UI controller & ViewModel
+    - ViewModel lifecycle
 
 - Tests
-- Instrumental and unit tests
-- Extreme cases
-    - Debugging: logcat and stack tracing
+    - Instrumental & Unit tests
+    - Edge cases
+    - Debugging: logcat & stack trace
