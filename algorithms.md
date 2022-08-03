@@ -1,4 +1,4 @@
-# “Big-O? Is this an order from McDonald's?”: Is it useful to solve algorithmic problems?
+# “Big-O? Is this an order from McDonald's?”: Is it useful to solve algorithmic problems? | *June 10, 2022, [Telegram version](https://t.me/sinblog/12)*
 
 ![Algorithms](https://user-images.githubusercontent.com/81878781/180293364-f17cc641-459b-42d2-8ffc-e77fd7a1f7d1.png)
 
