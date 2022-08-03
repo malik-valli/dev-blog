@@ -1,4 +1,4 @@
-June 1, 2022, [Telegram version](https://t.me/sinblog/6)
+# *The Beginning of the Story* | June 1, 2022, [Telegram version](https://t.me/sinblog/6)
 
 ![First post](https://user-images.githubusercontent.com/81878781/179823399-2f44c813-9904-4616-b6c1-4891fcb7ae5d.png)
 
